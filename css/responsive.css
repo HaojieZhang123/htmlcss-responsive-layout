@@ -42,7 +42,7 @@
         font-size: 40px;
     }
 
-    /* .recipe-card{
+    .recipe-card{
         display: flex;
     }
     .recipe-video{
@@ -50,7 +50,7 @@
     }
     .recipe-info{
         width: 25%;
-    } */
+    }
     .quick-notes li{
         width: 100%;
     }
