@@ -5,6 +5,10 @@
         float: left;
         margin: 5px;
     }
+
+    .social-networks button{
+        padding: 10px 35px;
+    }
 }
 
 /* Tablet */
