@@ -21,4 +21,8 @@
         display: inline-block;
         width: 30%
     }
+
+    .social-networks button{
+        padding: 10px 50px;
+    }
 }
