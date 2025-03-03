@@ -4,4 +4,8 @@
     #topbar{
         justify-content: flex-start;
     }
+
+    .container{
+        padding: 30px;
+    }
 }
