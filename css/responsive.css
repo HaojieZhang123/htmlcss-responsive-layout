@@ -32,6 +32,13 @@
 
     .clearfix img{
         float: left;
-        padding: 10px;
+        margin: 10px;
+    }
+}
+
+/* Desktop */
+@media screen and (min-width: 992px) {
+    .recipe-name{
+        font-size: 40px;
     }
 }
