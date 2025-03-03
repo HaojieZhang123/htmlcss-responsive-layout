@@ -41,4 +41,18 @@
     .recipe-name{
         font-size: 40px;
     }
+
+    /* .recipe-card{
+        display: flex;
+    }
+    .recipe-video{
+        width: 75%;
+    }
+    .recipe-info{
+        width: 25%;
+    } */
+    .quick-notes li{
+        width: 100%;
+    }
+
 }
