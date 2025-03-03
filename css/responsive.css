@@ -29,4 +29,9 @@
     .ads{
         display: block;
     }
+
+    .clearfix img{
+        float: left;
+        padding: 10px;
+    }
 }
