@@ -32,6 +32,7 @@ Info
 Il font utilizzato per il titolo è: 'Nerko One', cursive;
 Il font per il resto della pagina è: Montserrat, 'Helvetica Neue', sans-serif;
 Trovate tutto il contenuto all'interno dello zip.
+Occhio all'immagine del tiramisù: la dovete adattare alla dimensione corretta del contenitore.
 
 Numero minimo di push: uno per ogni task.
 
